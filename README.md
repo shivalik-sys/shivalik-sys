@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Ashutosh 👋
 
-<!--
-**shivalik-sys/shivalik-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Aspiring Data Analyst with hands-on experience in SQL, Power BI, Excel, and Google Sheets. I enjoy transforming raw data into meaningful insights through data analysis, visualization, and reporting.
 
-Here are some ideas to get you started:
+## Skills
+- SQL
+- Power BI
+- Microsoft Excel
+- Google Sheets
+- Statistics & Probability
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+- Building Data Analytics Projects
+- Creating Interactive Power BI Dashboards
+- Improving SQL and Analytics Skills
+- Exploring Python for Data Analysis
+
+## Projects
+I regularly build and share projects related to data analysis, data visualization, business intelligence, and reporting.
+
+## Career Goal
+Seeking opportunities to apply data analytics skills in real-world business problems and continue growing as a Data Analyst.
+
+---
+📊 Turning data into actionable insights through analytics and visualization.
