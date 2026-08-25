@@ -1,7 +1,7 @@
 # Hi, I'm Ashutosh 👋
 
 ## About Me
-Aspiring Data Analyst with hands-on experience in Python, SQL, Power BI, Excel, and Google Sheets. I enjoy transforming raw data into meaningful insights through data analysis, visualization, and reporting.
+Data Analyst with hands-on experience in Python, SQL, Power BI, Excel, and Google Sheets. I enjoy transforming raw data into meaningful insights through data analysis, visualization, and reporting.
 
 ## Skills
 - Python
